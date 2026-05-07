@@ -40,35 +40,29 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
   <img src="https://img.shields.io/badge/Networking-CCNA-blue?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### **Data & Fintech**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe_API-6772E5?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
 ---
 
 ## 🌟 Featured Projects
 
-### 🧶 **Craft | Lead Backend Developer** (Graduation Project - Grade A+)
-*Architected a multi-module community ecosystem integrating Social, E-commerce, Courses, and Real-time Chat.*
-- Optimized **150+ RESTful endpoints** for high-performance data flow.
-- Designed a complex **RBAC system** for Customer, Crafter, and Delivery interfaces.
-- Implemented real-time communication via WebSockets.
+### 🧶 [**Craft**](https://github.com/Waleeddarwesh/Craft-V1.2) |(Graduation Project - Grade A+)
+*Architected a high-density, modular community ecosystem integrating E-commerce, Social Networking, E-Learning, and Real-time Communication.*
+- **Enterprise-Grade Architecture**: Designed a scalable, multi-module backend capable of orchestrating complex cross-app data flows and high-concurrency traffic.
+- **Advanced Access Control**: Engineered a granular Role-Based Access Control (RBAC) system to manage distinct permissions for **Customer**, **Crafter**, and **Logistics** interfaces.
+- **Asynchronous Orchestration**: Leveraged **Celery** and **Redis** for efficient background processing, ensuring low-latency responses even under heavy loads.
+- **Real-Time Integration**: Implemented persistent bi-directional communication using **WebSockets** for secure, instant messaging and live notifications.
 
-### 🚗 **SwiftRide | Backend Engineer**
+### 🚗 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide) 
 *Engineered a scalable backend for a transit and ticketing system.*
 - Integrated **Stripe** for secure financial transactions.
 - Developed real-time train tracking and encrypted **QR-based ticket scanning**.
+- Maintained comprehensive API documentation via Swagger.
 
 ---
 
 ## 📊 GitHub Ecosystem
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Waleeddarwesh&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeddarwesh&layout=compact&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.com/api?username=Waleeddarwesh&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.com/api/top-langs/?username=Waleeddarwesh&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
