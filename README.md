@@ -14,7 +14,7 @@
 Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid foundation in backend architecture and scalable systems. Currently leveraging intensive **NTI technical training** to specialize in Cloud infrastructure, bridging the gap between robust software development and automated, efficient deployment.
 
 - 🎓 **Education:** B.Sc in Computer and Information Technology (**GPA: 3.63/4.0**)
-- 🛡️ **Certification:** Cisco Certified Network Associate (**CCNA**)
+- 🛡️ **Certification:** Red Hat Certified Architect (**RHCA**) | Cisco Certified Network Associate (**CCNA**)
 - 🚀 **Current Focus:** Advanced Networking, Linux System Administration, and CI/CD Automation.
 
 ---
