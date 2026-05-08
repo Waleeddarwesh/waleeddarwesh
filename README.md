@@ -70,8 +70,9 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 ## 📊 GitHub Ecosystem
 <p align="left">
-<img src="https://github-readme-stats.com/api?username=Waleeddarwesh&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.com/api/top-langs/?username=Waleeddarwesh&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waleeddarwesh&show_icons=true&theme=tokyonight" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleeddarwesh&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
