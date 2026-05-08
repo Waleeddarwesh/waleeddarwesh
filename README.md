@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waleed Darwesh Saad
 ### 🛠️ Django Developer & Cloud DevOps Engineer
-**Zagazig University Graduate** | **NTI Cloud DevOps Trainee**
+**Computer Science Graduate** | **NTI Cloud DevOps Trainee**
 
 <p align="left">
  <a href="https://www.linkedin.com/in/WaleedDarwesh1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
