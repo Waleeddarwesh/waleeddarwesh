@@ -55,16 +55,21 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 ### 🧶 [**Craft**](https://github.com/Waleeddarwesh/Craft-V1.2) |(Graduation Project - Grade A+)
 *Architected a high-density, modular community ecosystem integrating E-commerce, Social Networking, E-Learning, and Real-time Communication.*
+
 - **Enterprise-Grade Architecture**: Designed a scalable, multi-module backend capable of orchestrating complex cross-app data flows and high-concurrency traffic.
 - **Advanced Access Control**: Engineered a granular Role-Based Access Control (RBAC) system to manage distinct permissions for **Customer**, **Crafter**, and **Logistics** interfaces.
 - **Asynchronous Orchestration**: Leveraged **Celery** and **Redis** for efficient background processing, ensuring low-latency responses even under heavy loads.
 - **Real-Time Integration**: Implemented persistent bi-directional communication using **WebSockets** for secure, instant messaging and live notifications.
 
-### 🚗 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide) 
-*Engineered a scalable backend for a transit and ticketing system.*
-- Integrated **Stripe** for secure financial transactions.
-- Developed real-time train tracking and encrypted **QR-based ticket scanning**.
-- Maintained comprehensive API documentation via Swagger.
+## 🚄 SwiftRide
+
+*Engineered a high-performance transit ticketing ecosystem using Django and event-driven architecture.*
+
+* **Real-time Synchronization:** Built a live train tracking and notification system using Django Channels (WebSockets) and Redis for sub-second updates.
+* **Secure Ticketing:** Developed an encrypted QR-based validation system with automated concurrency-safe seat reservation and ticket generation.
+* **Robust Payments:** Integrated Stripe to handle complex financial workflows, including secure checkouts, refunds, and multi-currency transactions.
+* **Scalable Infrastructure:** Implemented Celery for background task processing and containerized the entire stack with Docker for production deployment.
+
 
 ---
 
