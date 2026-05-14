@@ -53,7 +53,7 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 ## 🌟 Featured Projects
 
-## 🧶 [**Craft**](https://github.com/Waleeddarwesh/Craft-V1.2) |(Graduation Project - Grade A+)
+### 🧶 [**Craft**](https://github.com/Waleeddarwesh/Craft-V1.2) |(Graduation Project - Grade A+)
 *Architected a high-density, modular community ecosystem integrating E-commerce, Social Networking, E-Learning, and Real-time Communication.*
 
 - **Enterprise-Grade Architecture**: Designed a scalable, multi-module backend capable of orchestrating complex cross-app data flows and high-concurrency traffic.
@@ -61,7 +61,7 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 - **Asynchronous Orchestration**: Leveraged **Celery** and **Redis** for efficient background processing, ensuring low-latency responses even under heavy loads.
 - **Real-Time Integration**: Implemented persistent bi-directional communication using **WebSockets** for secure, instant messaging and live notifications.
 
-## 🧶 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
+###🧶 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 
 *Engineered a high-performance transit ticketing ecosystem using Django and event-driven architecture.*
 
