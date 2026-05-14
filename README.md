@@ -61,7 +61,7 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 - **Asynchronous Orchestration**: Leveraged **Celery** and **Redis** for efficient background processing, ensuring low-latency responses even under heavy loads.
 - **Real-Time Integration**: Implemented persistent bi-directional communication using **WebSockets** for secure, instant messaging and live notifications.
 
-###🧶 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
+### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 
 *Engineered a high-performance transit ticketing ecosystem using Django and event-driven architecture.*
 
