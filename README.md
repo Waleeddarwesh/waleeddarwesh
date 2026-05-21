@@ -29,7 +29,7 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### **Infrastructure & Fintech (Used in Craft)**
+### **Infrastructure & Fintech**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
