@@ -3,9 +3,21 @@
 **Computer Science Graduate** | **NTI Cloud DevOps Trainee**
 
 <p align="left">
- <a href="https://www.linkedin.com/in/WaleedDarwesh1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:Waleeddarwesh2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://github.com/Waleeddarwesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/waleeddarwesh1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:Waleeddarwesh2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://hub.docker.com/r/waleeddarwesh/craft">
+    <img src="https://img.shields.io/badge/Docker%20Hub-waleeddarwesh%2Fcraft-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Waleeddarwesh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
