@@ -65,13 +65,27 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 ## 🌟 Featured Projects
 
-### 🧶 [**Craft**](https://github.com/Waleeddarwesh/Craft-V1.2) |(Graduation Project - Grade A+)
-*Architected a high-density, modular community ecosystem integrating E-commerce, Social Networking, E-Learning, and Real-time Communication.*
+### 🧶 **Craft** | *(Graduation Project - Grade A+)*
+*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
-- **Enterprise-Grade Architecture**: Designed a scalable, multi-module backend capable of orchestrating complex cross-app data flows and high-concurrency traffic.
-- **Advanced Access Control**: Engineered a granular Role-Based Access Control (RBAC) system to manage distinct permissions for **Customer**, **Crafter**, and **Logistics** interfaces.
-- **Asynchronous Orchestration**: Leveraged **Celery** and **Redis** for efficient background processing, ensuring low-latency responses even under heavy loads.
-- **Real-Time Integration**: Implemented persistent bi-directional communication using **WebSockets** for secure, instant messaging and live notifications.
+> 🔒 **Note:** The source code repositories for this project are kept **Private** to protect proprietary business logic. The architecture spans across 3 major iterations:
+> - **`Craft V1.0`** - Initial Architecture, Core Marketplace & E-Learning MVP.
+> - **`Craft V1.1`** - Production-Ready Release (Dockerized, Daphne ASGI, Arabic Localization, Automated CI/CD).
+> - **`Craft V1.2`** - Global-Scale Features (Audit Logs, Dispute Resolution, Support Tickets, FCM Push Notifications, GDPR Compliance, Supplier Analytics).
+
+#### 🏗️ **Core System Capabilities**
+- **Multi-Vendor Marketplace & Logistics:** Engineered a comprehensive e-commerce engine handling product variants, dynamic carts, Stripe payment orchestration, advanced return policies, and a dedicated delivery routing module for drivers.
+- **E-Learning Integration:** Built a fully-featured digital academy allowing suppliers to upload video courses, track student enrollment progress, and issue automated certificates.
+- **Social & Engagement Engine:** Developed a real-time social layer where users can follow suppliers, browse dynamic content feeds, and receive personalized product recommendations driven by an interaction-history algorithm (Views/Carts/Purchases).
+- **Real-Time Communication:** Designed persistent, bi-directional WebSocket infrastructure using **Django Channels** and **Redis** for secure instant messaging and live push notifications (via Firebase Cloud Messaging).
+- **CRM & Conflict Resolution:** Implemented a priority-based Support Ticket system and a multi-party Dispute Resolution workflow to mediate conflicts between buyers and suppliers safely.
+- **Automated Analytics & Reporting:** Leveraged **Celery** and **Celery Beat** to offload heavy background processing, generating real-time supplier dashboards (total sales, return rates, top products) without blocking the main event loop.
+
+#### 🛡️ **Enterprise Security & DevOps Operations**
+- **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
+- **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
+- **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
+
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 
