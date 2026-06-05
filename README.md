@@ -65,13 +65,14 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 ## 🌟 Featured Projects
 
-### 🧶 **Craft** | *(Graduation Project - Grade A+)*
+### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Graduation Project - Grade A+)*
 *An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
-> 🔒 **Note:** The source code repositories for this project are kept **Private** to protect proprietary business logic. The architecture spans across 3 major iterations:
-> - **`Craft V1.0`** - Initial Architecture, Core Marketplace & E-Learning MVP.
-> - **`Craft V1.1`** - Production-Ready Release (Dockerized, Daphne ASGI, Arabic Localization, Automated CI/CD).
-> - **`Craft V1.2`** - Global-Scale Features (Audit Logs, Dispute Resolution, Support Tickets, FCM Push Notifications, GDPR Compliance, Supplier Analytics).
+> 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
+> The architecture spans across 3 major iterations:
+> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** - Initial architecture, core marketplace, supplier/customer/delivery roles, and e-learning MVP.
+> - **[Craft V1.1 ](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
+> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** - Advanced backend features including audit logs, dispute resolution, support tickets, FCM push notifications, supplier analytics, and privacy-ready enhancements.
 
 #### 🏗️ **Core System Capabilities**
 - **Multi-Vendor Marketplace & Logistics:** Engineered a comprehensive e-commerce engine handling product variants, dynamic carts, Stripe payment orchestration, advanced return policies, and a dedicated delivery routing module for drivers.
