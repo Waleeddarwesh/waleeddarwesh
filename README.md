@@ -25,12 +25,23 @@
 ## 👨‍💻 Professional Summary
 Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid foundation in backend architecture and scalable systems. Currently leveraging intensive **NTI technical training** to specialize in Cloud infrastructure, bridging the gap between robust software development and automated, efficient deployment.
 
-- 🎓 **Education:** B.Sc in Computer and Information Technology (**GPA: 3.63/4.0**)
-- 🛡️ **Certification:** Red Hat Certified System Administrator (**RHCSA**) | Cisco Certified Network Associate (**CCNA**)
-- 🚀 **Current Focus:** Advanced Networking, Linux System Administration, and CI/CD Automation.
+- 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0**)
+- 🛡️ **Digital Badges & Training:** AWS Academy | Red Hat Academy | Cisco Networking Academy
+- 🚀 **Current Focus:** AWS Cloud, Linux System Administration, Kubernetes/OpenShift, Ansible Automation, Terraform, Networking, and CI/CD Automation.
 
 ---
 
+## 🏅 Certifications & Digital Badges
+
+- **AWS Academy Graduate — Cloud Architecting**
+- **AWS Academy Graduate — Cloud Foundations**
+- **AWS Academy Graduate — Cloud Security Foundations**
+- **Cisco Networking Academy — CCNA: Introduction to Networks**
+- **Red Hat Academy — Red Hat System Administration I (RH124)**
+- **Red Hat Academy — Red Hat OpenShift Administration I: Operating a Production Cluster**
+- **Red Hat Academy — Red Hat Enterprise Linux Automation with Ansible (RH294)**
+
+---
 ## 🛠️ Technical Arsenal
 
 ### **Backend Development**
