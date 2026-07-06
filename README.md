@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waleed Darwesh Saad
-### 🛠️ Django Developer & Cloud DevOps Engineer
-**Computer Science Graduate** | **NTI Cloud DevOps Trainee**
+### 🛠️ Backend Engineer • Cloud & DevOps Engineer
+**Computer Science Graduate** | **Cloud DevOps Intern @ iVolve Technologies**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/waleeddarwesh1/">
@@ -23,12 +23,15 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid foundation in backend architecture and scalable systems. Currently leveraging intensive **NTI technical training** to specialize in Cloud infrastructure, bridging the gap between robust software development and automated, efficient deployment.
+
+Results-oriented **Backend Engineer** and **Cloud & DevOps Engineer** with experience designing scalable backend systems using Python and Django, complemented by a strong foundation in Cloud Infrastructure, DevOps automation, Infrastructure as Code (IaC), and CI/CD practices. Successfully completed the **NTI Cloud & DevOps Training Program**, gaining hands-on experience with AWS, Linux, Kubernetes, OpenShift, Ansible, Terraform, and cloud automation while building practical, production-oriented projects.
+
+Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my expertise in Cloud Infrastructure, DevOps practices, and Infrastructure as Code (IaC) through hands-on projects, technical training, and real-world implementations using AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, and modern CI/CD workflows.
 
 - 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0**)
-- 🛡️ **Digital Badges & Training:** AWS Academy | Red Hat Academy | Cisco Networking Academy
-- 🚀 **Current Focus:** AWS Cloud, Linux System Administration, Kubernetes/OpenShift, Ansible Automation, Terraform, Networking, and CI/CD Automation.
-
+- 🎓 **Professional Training:** NTI Cloud DevOps Training Program (AWS, Red Hat Linux, Kubernetes, OpenShift, Ansible, Terraform & CI/CD)
+- 🛡️ **Digital Badges & Certifications:** AWS Academy | Red Hat Academy | Cisco Networking Academy
+- 🚀 **Current Focus:** AWS Cloud, Linux System Administration, Docker, Kubernetes/OpenShift, Jenkins CI/CD, Terraform (Infrastructure as Code), Ansible Automation, Networking, Monitoring & Observability, and Cloud Infrastructure.
 ---
 
 ## 🏅 Certifications & Digital Badges
@@ -42,47 +45,86 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 - **Red Hat Academy — Red Hat Enterprise Linux Automation with Ansible (RH294)**
 
 ---
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 ### **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-### **Infrastructure & Fintech**
-<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ### **Cloud & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Graduation Project - Grade A+)*
+### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
+
+*A repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.*
+
+#### 🧰 Technologies & Topics to Be Covered During the Internship
+
+- Bash Scripting
+- Git & GitHub
+- Maven & Gradle
+- Docker & Docker Compose
+- Jenkins
+- Kubernetes
+- Terraform
+- AWS
+- Ansible
+- Networking
+- CI/CD
+- Monitoring
+
+#### 🎯 Repository Goals
+
+- Document daily learning, technical labs, and project implementations.
+- Strengthen practical knowledge of modern Cloud and DevOps technologies.
+- Build production-oriented Cloud & DevOps skills through hands-on projects and real-world scenarios.
+- Track my continuous technical growth throughout the internship.
+  
+### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Bachelor's Graduation Project — Grade: Excellent)*
 *An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
 > 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
 > The architecture spans across 3 major iterations:
 > - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** - Initial architecture, core marketplace, supplier/customer/delivery roles, and e-learning MVP.
-> - **[Craft V1.1 ](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
+> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
 > - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** - Advanced backend features including audit logs, dispute resolution, support tickets, FCM push notifications, supplier analytics, and privacy-ready enhancements.
 > - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** - Next-generation architectural evolution transitioning the monolithic backend into a distributed microservices ecosystem for isolated deployments, high availability, and infinite scalability.
 
@@ -114,5 +156,5 @@ Result-oriented **Django Developer** and **Cloud DevOps Engineer** with a solid 
 
 <p align="center">
   <b>Arabic (Native) | English (Professional)</b><br>
-  <i>"Building the future, one automated endpoint at a time."</i>
+  <i>"Building scalable backend systems and automating modern cloud infrastructure."</i>
 </p>
