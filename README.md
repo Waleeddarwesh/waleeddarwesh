@@ -89,8 +89,31 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
 </p>
 
 ---
-
 ## 🌟 Featured Projects
+
+### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Bachelor's Graduation Project — Grade: Excellent)*
+*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
+
+> 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
+> The architecture spans across 3 major iterations:
+> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** - Initial architecture, core marketplace, supplier/customer/delivery roles, and e-learning MVP.
+> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
+> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** - Advanced backend features including audit logs, dispute resolution, support tickets, FCM push notifications, supplier analytics, and privacy-ready enhancements.
+> - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** - Next-generation architectural evolution transitioning the monolithic backend into a distributed microservices ecosystem for isolated deployments, high availability, and infinite scalability.
+
+#### 🏗️ **Core System Capabilities**
+- **Multi-Vendor Marketplace & Logistics:** Engineered a comprehensive e-commerce engine handling product variants, dynamic carts, Stripe payment orchestration, advanced return policies, and a dedicated delivery routing module for drivers.
+- **E-Learning Integration:** Built a fully-featured digital academy allowing suppliers to upload video courses, track student enrollment progress, and issue automated certificates.
+- **Social & Engagement Engine:** Developed a real-time social layer where users can follow suppliers, browse dynamic content feeds, and receive personalized product recommendations driven by an interaction-history algorithm (Views/Carts/Purchases).
+- **Real-Time Communication:** Designed persistent, bi-directional WebSocket infrastructure using **Django Channels** and **Redis** for secure instant messaging and live push notifications (via Firebase Cloud Messaging).
+- **CRM & Conflict Resolution:** Implemented a priority-based Support Ticket system and a multi-party Dispute Resolution workflow to mediate conflicts between buyers and suppliers safely.
+- **Automated Analytics & Reporting:** Leveraged **Celery** and **Celery Beat** to offload heavy background processing, generating real-time supplier dashboards (total sales, return rates, top products) without blocking the main event loop.
+
+#### 🛡️ **Enterprise Security & DevOps Operations**
+- **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
+- **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
+- **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
+
 
 ### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
 
@@ -117,30 +140,6 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
 - Strengthen practical knowledge of modern Cloud and DevOps technologies.
 - Build production-oriented Cloud & DevOps skills through hands-on projects and real-world scenarios.
 - Track my continuous technical growth throughout the internship.
-  
-### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Bachelor's Graduation Project — Grade: Excellent)*
-*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
-
-> 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
-> The architecture spans across 3 major iterations:
-> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** - Initial architecture, core marketplace, supplier/customer/delivery roles, and e-learning MVP.
-> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
-> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** - Advanced backend features including audit logs, dispute resolution, support tickets, FCM push notifications, supplier analytics, and privacy-ready enhancements.
-> - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** - Next-generation architectural evolution transitioning the monolithic backend into a distributed microservices ecosystem for isolated deployments, high availability, and infinite scalability.
-
-#### 🏗️ **Core System Capabilities**
-- **Multi-Vendor Marketplace & Logistics:** Engineered a comprehensive e-commerce engine handling product variants, dynamic carts, Stripe payment orchestration, advanced return policies, and a dedicated delivery routing module for drivers.
-- **E-Learning Integration:** Built a fully-featured digital academy allowing suppliers to upload video courses, track student enrollment progress, and issue automated certificates.
-- **Social & Engagement Engine:** Developed a real-time social layer where users can follow suppliers, browse dynamic content feeds, and receive personalized product recommendations driven by an interaction-history algorithm (Views/Carts/Purchases).
-- **Real-Time Communication:** Designed persistent, bi-directional WebSocket infrastructure using **Django Channels** and **Redis** for secure instant messaging and live push notifications (via Firebase Cloud Messaging).
-- **CRM & Conflict Resolution:** Implemented a priority-based Support Ticket system and a multi-party Dispute Resolution workflow to mediate conflicts between buyers and suppliers safely.
-- **Automated Analytics & Reporting:** Leveraged **Celery** and **Celery Beat** to offload heavy background processing, generating real-time supplier dashboards (total sales, return rates, top products) without blocking the main event loop.
-
-#### 🛡️ **Enterprise Security & DevOps Operations**
-- **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
-- **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
-- **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
-
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 
