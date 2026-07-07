@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Results-oriented **Backend Engineer** and **Cloud & DevOps Engineer** with experience designing scalable backend systems using Python and Django, complemented by a strong foundation in Cloud Infrastructure, DevOps automation, Infrastructure as Code (IaC), and CI/CD practices. Successfully completed the **NTI Cloud & DevOps Training Program**, gaining hands-on experience with AWS, Linux, Kubernetes, OpenShift, Ansible, Terraform, and cloud automation while building practical, production-oriented projects.
+Results-oriented **Backend Engineer** and **Cloud DevOps Engineer** with experience designing scalable backend systems using Python and Django, complemented by a strong foundation in Cloud Infrastructure, DevOps automation, Infrastructure as Code (IaC), and CI/CD practices. Successfully completed the **NTI Cloud & DevOps Training Program**, gaining hands-on experience with AWS, Linux, Kubernetes, OpenShift, Ansible, Terraform, and cloud automation while building practical, production-oriented projects.
 
 Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my expertise in Cloud Infrastructure, DevOps practices, and Infrastructure as Code (IaC) through hands-on projects, technical training, and real-world implementations using AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, and modern CI/CD workflows.
 
