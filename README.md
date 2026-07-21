@@ -91,7 +91,7 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
 ---
 ## 🌟 Featured Projects
 
-### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.2) | *(Bachelor's Graduation Project — Grade: Excellent)*
+### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: Excellent)*
 *An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
 > 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
