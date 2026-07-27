@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Waleed Darwesh Saad
-### 🛠️ Backend Engineer • Cloud & DevOps Engineer
+### 🛠️ Cloud DevOps Engineer • Backend Software Engineer  
 **Computer Science Graduate** | **Cloud DevOps Intern @ iVolve Technologies**
 
 <p align="left">
@@ -24,9 +24,9 @@
 
 ## 👨‍💻 Professional Summary
 
-Results-oriented **Backend Engineer** and **Cloud DevOps Engineer** with experience designing scalable backend systems using Python and Django, complemented by a strong foundation in Cloud Infrastructure, DevOps automation, Infrastructure as Code (IaC), and CI/CD practices. Successfully completed the **NTI Cloud & DevOps Training Program**, gaining hands-on experience with AWS, Linux, Kubernetes, OpenShift, Ansible, Terraform, and cloud automation while building practical, production-oriented projects.
+Cloud DevOps Engineer and Backend Software Engineer with hands-on experience designing and deploying scalable backend applications and cloud-native infrastructure. Skilled in developing RESTful APIs with Python and Django, automating infrastructure using Terraform and Ansible, building containerized workloads with Docker and Kubernetes, and implementing secure CI/CD pipelines with Jenkins.
 
-Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my expertise in Cloud Infrastructure, DevOps practices, and Infrastructure as Code (IaC) through hands-on projects, technical training, and real-world implementations using AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, and modern CI/CD workflows.
+Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologies**, I have gained practical experience in AWS, Linux administration, Infrastructure as Code (IaC), container orchestration, automation, and observability by delivering production-oriented projects that follow modern DevOps and cloud engineering practices.
 
 - 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0**)
 - 🎓 **Professional Training:** NTI Cloud DevOps Training Program (AWS, Red Hat Linux, Kubernetes, OpenShift, Ansible, Terraform & CI/CD)
@@ -58,6 +58,8 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paymob-6A3FF5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bosta-FF6B00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
@@ -90,7 +92,6 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
 
 ---
 ## 🌟 Featured Projects
-
 ### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: Excellent)*
 *An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
@@ -113,6 +114,18 @@ Currently a **Cloud DevOps Intern at iVolve Technologies**, strengthening my exp
 - **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
 - **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
 - **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
+
+### 🚀 [**Step By Step NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
+*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
+
+#### 🏗️ **Cloud Infrastructure & Platform Engineering**
+- **Infrastructure as Code (IaC):** Designed modular Terraform configurations provisioning AWS infrastructure including public/private VPCs, EKS cluster (v1.34), RDS PostgreSQL 16, ECR, IAM, S3, AWS Backup, and dynamic secrets via AWS Secrets Manager.
+- **Configuration Management:** Engineered Ansible automation roles for complete Jenkins host initialization, Docker engine installation, system dependencies, and Amazon CloudWatch Agent configuration.
+- **Container Orchestration & Helm:** Packaged Django/Nginx workloads into multi-stage Docker images, deploying to EKS via custom Helm charts, Horizontal Pod Autoscaler (HPA), and AWS Load Balancer Controller (ALB Ingress) using IRSA for credential-less authentication.
+
+#### 🛡️ **CI/CD Security Gates & Observability**
+- **Automated CI/CD Pipelines:** Implemented Jenkins multibranch pipelines integrating static code analysis (**SonarQube**) and container vulnerability scanning (**Trivy**) with strict pass/fail quality gates.
+- **Full-Stack Observability:** Deployed Prometheus metric collection, custom Grafana dashboards for application/cluster health, Alertmanager notification rules, and centralized CloudWatch logging.
 
 
 ### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
