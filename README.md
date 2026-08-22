@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waleed Darwesh Saad
 ### 🛠️ Cloud DevOps Engineer • Backend Software Engineer  
-**Computer Science Graduate** | **Cloud DevOps Intern @ iVolve Technologies**
+**Computer Science Graduate** | **Former Cloud DevOps Intern @ iVolve Technologies**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/waleeddarwesh1/">
@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Waleeddarwesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+   <a href="https://www.credly.com/users/waleed-darwesh1/">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
+  
 </p>
 
 ---
