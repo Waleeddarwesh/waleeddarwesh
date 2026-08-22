@@ -41,6 +41,7 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 - **AWS Academy Graduate — Cloud Security Foundations**
 - **Cisco Networking Academy — CCNA: Introduction to Networks**
 - **Red Hat Academy — Red Hat System Administration I (RH124)**
+- **Red Hat Academy — Red Hat System Administration II (RH134)**
 - **Red Hat Academy — Red Hat OpenShift Administration I: Operating a Production Cluster**
 - **Red Hat Academy — Red Hat Enterprise Linux Automation with Ansible (RH294)**
 
@@ -92,7 +93,7 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 
 ---
 ## 🌟 Featured Projects
-### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: Excellent)*
+### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: A+)*
 *An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
 > 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
@@ -114,20 +115,23 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 - **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
 - **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
 - **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
+  
+### 🌐 [**EgyKode**](https://github.com/Waleeddarwesh/EgyKode)
+*The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and fully containerized local lab environments.*
 
-### 🚀 [**Step By Step NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
-*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
+#### 🏗️ **Core Platform Features**
+- **Interactive Cloud Scenarios:** Built 45+ browser-based terminal scenarios using Killercoda for zero-setup, free DevOps labs.
+- **Local Lab Environments:** Developed standalone Docker-based DevOps workstations providing Git, Ansible, Terraform, Kubectl, Helm, and managed systemd nodes.
+- **Automated Content Engineering:** Created a Next.js 15 (App Router) and MDX-based platform where topics, roadmaps, and 100+ labs are dynamically generated and verified via strict CI pipelines.
 
-#### 🏗️ **Cloud Infrastructure & Platform Engineering**
-- **Infrastructure as Code (IaC):** Designed modular Terraform configurations provisioning AWS infrastructure including public/private VPCs, EKS cluster (v1.34), RDS PostgreSQL 16, ECR, IAM, S3, AWS Backup, and dynamic secrets via AWS Secrets Manager.
-- **Configuration Management:** Engineered Ansible automation roles for complete Jenkins host initialization, Docker engine installation, system dependencies, and Amazon CloudWatch Agent configuration.
-- **Container Orchestration & Helm:** Packaged Django/Nginx workloads into multi-stage Docker images, deploying to EKS via custom Helm charts, Horizontal Pod Autoscaler (HPA), and AWS Load Balancer Controller (ALB Ingress) using IRSA for credential-less authentication.
+### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
+*A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.*
 
-#### 🛡️ **CI/CD Security Gates & Observability**
-- **Automated CI/CD Pipelines:** Implemented Jenkins multibranch pipelines integrating static code analysis (**SonarQube**) and container vulnerability scanning (**Trivy**) with strict pass/fail quality gates.
-- **Full-Stack Observability:** Deployed Prometheus metric collection, custom Grafana dashboards for application/cluster health, Alertmanager notification rules, and centralized CloudWatch logging.
-
-
+#### 🏗️ **Architecture & Implementation**
+- **Infrastructure Automation:** Provisioned complete AWS environments using Terraform and configured instances using Ansible roles.
+- **GitOps & Orchestration:** Deployed scalable microservices on Kubernetes using Helm charts, managed via an ArgoCD GitOps workflow.
+- **CI/CD & Observability:** Implemented automated Jenkins pipelines with DevSecOps practices and deployed a full Prometheus/Grafana monitoring stack.
+  
 ### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
 
 *A repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.*
@@ -153,6 +157,19 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 - Strengthen practical knowledge of modern Cloud and DevOps technologies.
 - Build production-oriented Cloud & DevOps skills through hands-on projects and real-world scenarios.
 - Track my continuous technical growth throughout the internship.
+  
+### 🚀 [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
+*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
+
+#### 🏗️ **Cloud Infrastructure & Platform Engineering**
+- **Infrastructure as Code (IaC):** Designed modular Terraform configurations provisioning AWS infrastructure including public/private VPCs, EKS cluster (v1.34), RDS PostgreSQL 16, ECR, IAM, S3, AWS Backup, and dynamic secrets via AWS Secrets Manager.
+- **Configuration Management:** Engineered Ansible automation roles for complete Jenkins host initialization, Docker engine installation, system dependencies, and Amazon CloudWatch Agent configuration.
+- **Container Orchestration & Helm:** Packaged Django/Nginx workloads into multi-stage Docker images, deploying to EKS via custom Helm charts, Horizontal Pod Autoscaler (HPA), and AWS Load Balancer Controller (ALB Ingress) using IRSA for credential-less authentication.
+
+#### 🛡️ **CI/CD Security Gates & Observability**
+- **Automated CI/CD Pipelines:** Implemented Jenkins multibranch pipelines integrating static code analysis (**SonarQube**) and container vulnerability scanning (**Trivy**) with strict pass/fail quality gates.
+- **Full-Stack Observability:** Deployed Prometheus metric collection, custom Grafana dashboards for application/cluster health, Alertmanager notification rules, and centralized CloudWatch logging.
+
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 
