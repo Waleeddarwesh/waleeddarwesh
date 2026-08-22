@@ -137,7 +137,7 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 
 *A repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.*
 
-#### 🧰 Technologies & Topics to Be Covered During the Internship
+#### 🧰 Technologies & Topics Covered During the Internship
 
 - Bash Scripting
 - Git & GitHub
