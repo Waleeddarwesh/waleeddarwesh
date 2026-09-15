@@ -117,7 +117,7 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 - **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
 - **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
   
-### 🌐 [**EgyKode**](https://github.com/egykode/EgyKode)
+### 🌐 [**EgyKode**](https://github.com/egykode/EgyKode-Academy)
 *The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and fully containerized local lab environments.*
 
 #### 🏗️ **Core Platform Features**
