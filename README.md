@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://egykode.com">
-    <img src="https://img.shields.io/badge/EgyKode-0052CC?style=for-the-badge&logo=safari&logoColor=white" alt="EgyKode" />
+    <img src="https://img.shields.io/badge/EgyKode-007A55?style=for-the-badge&logo=safari&logoColor=white" alt="EgyKode" />
   </a>
   <a href="mailto:waleeddarwesh@egykode.com">
-    <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://hub.docker.com/r/waleeddarwesh/">
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
@@ -74,22 +74,11 @@ EgyKode
 
 *A multi-vendor marketplace combining online shopping, supplier store management, delivery services, e-learning workshops, and real-time social networking in a unified platform.*
 
-- **Marketplace & Orders:** Product catalogs, multi-variant inventory management, dynamic shopping carts, and courier delivery tracking.
-- **Payments & Payouts:** Paymob and Stripe integrations with digital wallet withdrawals and automated payout ledgers.
-- **E-Learning & Workshops:** Masterclass video streaming, workshop attendee management, and downloadable learning resources.
-- **Real-Time Communication:** User feeds, follower graphs, and instant customer-to-artisan chat powered by WebSockets and Redis Pub/Sub.
-- **Distributed Microservices:** 10 decoupled domain services orchestrated with Docker, Traefik API Gateway, RabbitMQ, PostgreSQL 15, PgBouncer, MinIO S3, and Prometheus/Grafana observability.
-- **Mobile Applications:** Dedicated cross-platform Flutter applications for buyers and suppliers.
-- **Security & Privacy:** Role-Based Access Control (RBAC), data minimization under Egyptian Law 151/2020, and immutable audit logs.
-
-#### 🔍 Architectural Evolution
-
-| Version | Architecture & Key Deliverables |
-| :--- | :--- |
-| **V1.0** | Core monolithic marketplace, multi-role workflows (Customer, Supplier, Courier, Admin), and e-learning MVP. |
-| **V1.1** | Production hardening with Docker, Daphne ASGI (HTTP/2), Redis caching, Celery workers, and CI/CD pipelines. |
-| **V1.2** | Enterprise backend: audit trails, dispute arbitration, support ticketing, FCM push notifications, and supplier analytics. |
-| **V2.0** | Cloud-native microservices: 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PgBouncer pooling, full observability, and Flutter mobile apps. |
+- **Architectural Evolution (V1.0 → V2.0):** Developed across 4 iterations, evolving from a Django monolithic MVP (V1.0) through Daphne ASGI and Celery hardening (V1.1) and enterprise auditing (V1.2) into a distributed microservices architecture (V2.0) with 10 decoupled domain services.
+- **Distributed Infrastructure & Observability:** Production-hardened with Docker, Traefik API Gateway edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 object storage, and full Prometheus, Grafana, and Jaeger observability.
+- **Multi-Vendor Marketplace & Payments:** Product catalogs, multi-variant inventory reservations, dynamic shopping carts, courier tracking, and Paymob & Stripe integrations with digital wallet withdrawals and automated payout ledgers.
+- **Real-Time Communication & E-Learning:** Bi-directional customer-to-artisan chat via WebSockets and Redis Pub/Sub, live activity feeds, and integrated masterclass video streaming with workshop attendee management.
+- **Mobile Applications & Data Governance:** Dedicated cross-platform Flutter mobile applications for buyers and suppliers, reinforced by Role-Based Access Control (RBAC), immutable audit logging, and data minimization under Egyptian Law 151/2020.
 
 ---
 
@@ -236,6 +225,7 @@ EgyKode
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="OpenShift" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
@@ -270,6 +260,7 @@ EgyKode
 - **Red Hat Academy — Red Hat System Administration I (RH124)**
 - **Red Hat Academy — Red Hat System Administration II (RH134)**
 - **Red Hat Academy — Red Hat OpenShift Administration I: Operating a Production Cluster**
+- **Red Hat Academy — Red Hat OpenStack Administration I: Core Operations for Domain Operators (CL110 - RHA) - Ver. 16.1**
 - **Red Hat Academy — Red Hat Enterprise Linux Automation with Ansible (RH294)**
 
 ---
