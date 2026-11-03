@@ -38,33 +38,7 @@ My engineering work bridges distributed software engineering and cloud-native pl
 
 ---
 
-## 🎓 Bachelor's Graduation Project — Craft (Grade: A+)
-
-### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: A+)*
-*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
-
-> 🔒 **Architectural Evolution across 4 Iterations:**
-> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** — Initial architecture, core multi-vendor marketplace, role-based workflows (Customers, Suppliers, Delivery Personnel, Admins), and e-learning MVP.
-> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** — Production hardening with Docker, Daphne ASGI (HTTP/2), dynamic database localization via `django-modeltranslation`, Redis caching, Celery background workers, and automated CI/CD.
-> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** — Enterprise backend capabilities: audit trails, dispute resolution, priority support ticketing, FCM push notifications, supplier analytics dashboards, and GDPR data portability tools.
-> - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** — Distributed microservices transformation decomposing the monolith into 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 storage, full Prometheus/Grafana/Jaeger observability, and dedicated Flutter mobile apps ([Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) & [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile)).
-
-#### 🏗️ **Core System Capabilities**
-- **Multi-Vendor Marketplace & Logistics:** Comprehensive e-commerce engine managing multi-variant cataloging, inventory reservations, dynamic shopping carts, Paymob/Stripe payment orchestration, advanced return policies, and courier dispatch tracking.
-- **E-Learning & Workshop Integration:** Digital academy module allowing master artisans to host workshops, stream video masterclasses, track student progress, and issue automated certificates.
-- **Social & Discovery Layer:** Content discovery feeds, follower graphs, and personalized product recommendations powered by an interaction-history algorithm (Views, Carts, Purchases).
-- **Real-Time Communication:** Persistent bi-directional WebSocket infrastructure built on Django Channels / FastAPI and Redis for instant maker-customer messaging and live notifications.
-- **CRM & Conflict Resolution:** Structured support ticketing system and multi-party dispute arbitration workflows mediating buyer and artisan claims.
-- **Automated Analytics & Reporting:** Celery and Celery Beat offloading heavy data aggregation to produce live sales metrics, return rates, and financial payout statements.
-
-#### 🛡️ **Enterprise Security & Cloud-Native Operations**
-- **Role-Based Access Control (RBAC):** Granular authorization isolating Customers, Artisans, Delivery Drivers, and System Administrators.
-- **Data Governance & Egyptian Law 151/2020:** Data minimization, post-delivery address masking, brute-force lockout protection, and immutable audit logging.
-- **Containerization & Deployment:** Fully containerized stack orchestrated via Docker Compose, tuned PostgreSQL connection pooling, and automated secret rotation.
-
----
-
-## 🏢 Products & Platforms Engineered @ EgyKode
+## 🏢 EgyKode Overview & Company Architecture
 
 EgyKode is an Egyptian technology company building practical enterprise software, cloud infrastructure, developer platforms, and digital products.
 
@@ -86,8 +60,31 @@ EgyKode
         └── Cost Optimization & Infrastructure Review
 ```
 
+---
+
+## 🌟 Featured Projects & Engineered Systems
+
+### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v1.0)
+> **Category:** `🎓 Bachelor's Graduation Project (Grade: A+)`  
+> **Domain:** *Artisanal Commerce, Multi-Vendor Marketplace, Logistics & E-Learning*
+
+An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.
+
+- **Architectural Evolution across 4 Iterations:**
+  - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** — Initial architecture, core multi-vendor marketplace, role-based workflows (Customers, Suppliers, Delivery Personnel, Admins), and e-learning MVP.
+  - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** — Production hardening with Docker, Daphne ASGI (HTTP/2), dynamic database localization via `django-modeltranslation`, Redis caching, Celery background workers, and automated CI/CD.
+  - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** — Enterprise backend capabilities: audit trails, dispute resolution, priority support ticketing, FCM push notifications, supplier analytics dashboards, and GDPR data portability tools.
+  - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** — Distributed microservices transformation decomposing the monolith into 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 storage, full Prometheus/Grafana/Jaeger observability, and dedicated Flutter mobile apps ([Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) & [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile)).
+- **Core System Capabilities:** Multi-variant cataloging, inventory reservations, dynamic shopping carts, Paymob/Stripe payment orchestration, courier dispatch tracking, workshop video streaming, follower feeds, and real-time WebSocket chat.
+- **Security & Data Governance:** Role-Based Access Control (RBAC), data minimization under Egyptian Law 151/2020, post-delivery address masking, and immutable audit logging.
+
+---
+
 ### ⚡ [**PILOT**](https://pilot.egykode.com)
-*A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.*
+> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Domain:** *Cloud & DevOps Architecture, Cost Estimation & Infrastructure as Code*
+
+A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.
 
 - **Topology & Cost Analysis:** Automates cloud architectural comparisons across AWS, GCP, and Azure with detailed cost projections.
 - **Automated Delivery Plans:** Translates complex system requirements into reviewable infrastructure roadmaps and security-hardened deployment strategies.
@@ -96,7 +93,10 @@ EgyKode
 ---
 
 ### 🏥 [**Care**](https://github.com/EgyKode/Care)
-*A specialized healthcare outpatient operations and patient flow management platform designed to synchronize physician scheduling, clinic queues, reception check-ins, and proactive arrival notifications to eliminate waiting room congestion and provide hospital operational visibility.*
+> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Domain:** *Healthcare Outpatient Operations, Clinic Queue Management & Patient Flow*
+
+A specialized healthcare outpatient operations and patient flow management platform designed to synchronize physician scheduling, clinic queues, reception check-ins, and proactive arrival notifications to eliminate waiting room congestion and provide hospital operational visibility.
 
 - **End-to-End Clinic Operations:** Role-tailored workspaces for Physicians, Clinic Coordinators, Receptionists, and Hospital Administrators.
 - **Smart Queue & Scheduling:** Multi-session scheduling, buffer slots, walk-in ticket triage, dynamic status transitions, and proactive patient notifications.
@@ -105,7 +105,10 @@ EgyKode
 ---
 
 ### 💼 [**ProcMarts**](https://github.com/EgyKode/ProcMarts)
-*A comprehensive digital B2B procurement operating system engineered to digitize requests for quotation (RFQs), competitive tenders, verified supplier evaluations, purchase orders, and automated 3-way invoice matching.*
+> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Domain:** *Enterprise B2B Procurement, Tender Bidding & Automated 3-Way Matching*
+
+A comprehensive digital B2B procurement operating system engineered to digitize requests for quotation (RFQs), competitive tenders, verified supplier evaluations, purchase orders, and automated 3-way invoice matching.
 
 - **B2B Procurement Lifecycle:** Complete digitization of requisitions, competitive bidding rounds, technical scorecards, and multi-currency awards.
 - **Microservices Architecture:** Decoupled procurement domains featuring independent service boundaries, Traefik edge routing, asynchronous AMQP messaging, and dedicated Flutter mobile apps for buyers and suppliers.
@@ -114,7 +117,10 @@ EgyKode
 ---
 
 ### 🎓 [**EgyKode Academy**](https://github.com/egykode/EgyKode-Academy)
-*The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and containerized local lab environments.*
+> **Category:** `🏢 EgyKode Open-Source Platform`  
+> **Domain:** *Cloud & DevOps Education, Hands-On Browser Labs & Workstations*
+
+The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and containerized local lab environments.
 
 - **Interactive Cloud Scenarios:** 45+ browser-based terminal scenarios using Killercoda for zero-setup, real-world DevOps labs.
 - **Local Lab Environments:** Standalone Docker-based DevOps workstations providing Git, Ansible, Terraform, Kubectl, Helm, and managed systemd nodes.
@@ -122,22 +128,24 @@ EgyKode
 
 ---
 
-## 💻 Backend Software Engineering Projects
-
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
-*High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.*
+> **Category:** `💻 Backend Software Engineering Project`  
+> **Domain:** *Transit Ticketing, Real-Time Fleet Tracking & Event-Driven Architecture*
 
-- **Sub-Second Real-Time Synchronization:** Built a live train tracking and dispatch notification system using Django Channels (WebSockets) and Redis Pub/Sub for sub-second transit updates.
-- **Cryptographic QR Ticketing:** Developed an encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
+High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.
+
+- **Sub-Second Real-Time Synchronization:** Live train tracking and dispatch notification system powered by Django Channels (WebSockets) and Redis Pub/Sub.
+- **Cryptographic QR Ticketing:** Encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
 - **Robust Payment Processing:** Integrated Stripe checkout to handle complex financial workflows, including secure customer payments, automated refund processing, and multi-currency transactions.
 - **Scalable Architecture:** Offloaded intensive background jobs (email ticket dispatch, receipt generation) to Celery workers and containerized the entire stack with Docker Compose.
 
 ---
 
-## ☁️ Cloud & DevOps Projects
-
 ### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
-*A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.*
+> **Category:** `☁️ Cloud & DevOps Capstone Project`  
+> **Domain:** *iVolve Technologies Internship Final Capstone*
+
+A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.
 
 - **Infrastructure as Code (IaC):** Modular Terraform configurations provisioning VPC networks, compute instances, security groups, and cloud storage on AWS.
 - **Configuration Management:** Ansible playbooks for automated host provisioning, package management, and service hardening.
@@ -148,7 +156,10 @@ EgyKode
 ---
 
 ### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
-*A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, IaC projects, and cloud-native deployments.*
+> **Category:** `☁️ Cloud & DevOps Internship Journey`  
+> **Domain:** *iVolve Technologies Professional Training & Real-World Labs*
+
+A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, IaC projects, and cloud-native deployments.
 
 - **Hands-on Labs:** Deep-dive implementations across Linux Administration, Bash Automation, Docker, Kubernetes, Ansible, Terraform, and AWS.
 - **Enterprise CI/CD:** Real-world Jenkins pipeline configurations, artifact management with Maven/Gradle, and Git branching workflows.
@@ -156,7 +167,10 @@ EgyKode
 ---
 
 ### 🛰️ [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
-*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
+> **Category:** `☁️ Cloud & DevOps Enterprise Platform`  
+> **Domain:** *National Telecommunication Institute (NTI) Final Platform Project*
+
+A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.
 
 - **Enterprise AWS Infrastructure:** Terraform provisioning public/private VPC subnets, AWS EKS (v1.34), RDS PostgreSQL 16, Amazon ECR, IAM roles for service accounts (IRSA), S3, and AWS Secrets Manager.
 - **Ansible Configuration:** Automated initialization of Jenkins master/agent nodes, Docker container runtime, and CloudWatch log agents.
