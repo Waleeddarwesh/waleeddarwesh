@@ -29,7 +29,7 @@ I am a **Cloud DevOps Engineer**, **Backend Software Engineer**, and the **Found
 
 My engineering work bridges distributed software engineering and cloud-native platform infrastructure. I design and build resilient microservices architectures with Python, Django, and FastAPI, provision declarative multi-environment cloud infrastructure using Terraform and Ansible, orchestrate production container workloads on Kubernetes and OpenShift, and enforce automated DevSecOps pipelines with Jenkins and GitHub Actions.
 
-- 🏢 **Founder & Technical Lead:** [EgyKode](https://egykode.com) — Engineering enterprise platforms, SaaS products, and Cloud/DevOps solutions.
+- 🏢 **Founder & Software Engineer:** [EgyKode](https://egykode.com) — Engineering enterprise platforms, SaaS products, and Cloud/DevOps solutions.
 - 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0** with Honors).
 - 🎓 **Professional Training:** National Telecommunication Institute (NTI) Cloud DevOps Program (AWS, Red Hat Linux, Kubernetes, OpenShift, Ansible, Terraform & CI/CD).
 - 💼 **Industry Experience:** Former Cloud DevOps Intern @ **iVolve Technologies**.
@@ -273,7 +273,7 @@ Every system and platform engineered adheres to core architectural guidelines:
 ## 🌐 Connect & Inquiries
 
 <p align="left">
-  <b>Waleed Darwesh</b> — Founder & Software Architect @ EgyKode<br>
+  <b>Waleed Darwesh</b> — Founder & Software Engineer @ EgyKode<br>
   📍 Damietta Governorate, Egypt<br>
   🌐 <b>Corporate Website:</b> <a href="https://egykode.com">egykode.com</a><br>
   🐙 <b>GitHub Organization:</b> <a href="https://github.com/EgyKode">github.com/EgyKode</a><br>
