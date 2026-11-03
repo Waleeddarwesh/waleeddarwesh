@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Waleed Darwesh 
 
 ### 🚀 Founder @ EgyKode • Cloud DevOps Engineer • Backend Software Engineer  
-**B.Sc. in Computer Science (GPA: 3.63/4.0)** | **NTI Cloud DevOps Graduate** | **Former Cloud DevOps Intern @ iVolve Technologies**
+**B.Sc. in Computer Science** | **NTI Cloud DevOps Graduate** | **Former Cloud DevOps Intern @ iVolve Technologies**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/waleeddarwesh1/">
