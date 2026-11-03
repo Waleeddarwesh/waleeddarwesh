@@ -64,10 +64,7 @@ EgyKode
 
 ## 🚀 Projects & Platforms
 
-> 🔒 **Repository Privacy Notice:**  
-> Proprietary enterprise platforms and graduation project source code are maintained in **private repositories** to protect business logic, commercial workflows, and security architecture. Live production deployments and interactive platforms can be explored via their respective production links below.
-
-### 🧶 [Craft Platform](https://craft.egykode.com/)
+### 🧶 [Craft](https://craft.egykode.com/)
 > **Type:** 🎓 Bachelor's Graduation Project (Grade: A+)  
 > **Live Website:** [craft.egykode.com](https://craft.egykode.com/)  
 > **Repository:** 🔒 Private Repository
