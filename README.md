@@ -279,7 +279,7 @@ Every system and platform engineered adheres to core architectural guidelines:
   🐙 <b>GitHub Organization:</b> <a href="https://github.com/EgyKode">github.com/EgyKode</a><br>
   💼 <b>Personal LinkedIn:</b> <a href="https://www.linkedin.com/in/waleeddarwesh1/">linkedin.com/in/waleeddarwesh1</a><br>
   🏢 <b>Company LinkedIn:</b> <a href="https://www.linkedin.com/company/egykode">linkedin.com/company/egykode</a><br>
-  ✉️ <b>Founder Email:</b> <a href="mailto:waleeddarwesh@egykode.com">waleeddarwesh@egykode.com</a><br>
+  ✉️ <b>Personal Email:</b> <a href="mailto:waleeddarwesh@egykode.com">waleeddarwesh@egykode.com</a><br>
   ✉️ <b>Business Inquiries:</b> <a href="mailto:contact@egykode.com">contact@egykode.com</a>
 </p>
 
