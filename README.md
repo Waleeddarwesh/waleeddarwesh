@@ -64,17 +64,21 @@ EgyKode
 
 ## 🚀 Flagship Systems & Core Engineering Projects
 
-### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v1.0)
+> 🔒 **Repository Privacy Notice:**  
+> Proprietary enterprise platforms and graduation project source code are maintained in **private repositories** to protect business logic, commercial workflows, and security architecture. Live production deployments and interactive platforms can be explored via their respective production links below.
+
+### 🧶 [**Craft Platform**](https://craft.egykode.com)
 > **Classification:** `🎓 Bachelor's Graduation Project (Grade: A+)`  
-> **Domain:** *Artisanal Commerce, Multi-Vendor Marketplace, Logistics & E-Learning*
+> **Live Website:** [craft.egykode.com](https://craft.egykode.com)  
+> **Repository Status:** `🔒 Private Repository`
 
 An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.
 
 - **Architectural Evolution across 4 Iterations:**
-  - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** — Initial architecture, core multi-vendor marketplace, role-based workflows (Customers, Suppliers, Delivery Personnel, Admins), and e-learning MVP.
-  - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** — Production hardening with Docker, Daphne ASGI (HTTP/2), dynamic database localization via `django-modeltranslation`, Redis caching, Celery background workers, and automated CI/CD.
-  - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** — Enterprise backend capabilities: audit trails, dispute resolution, priority support ticketing, FCM push notifications, supplier analytics dashboards, and GDPR data portability tools.
-  - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** — Distributed microservices transformation decomposing the monolith into 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 storage, full Prometheus/Grafana/Jaeger observability, and dedicated Flutter mobile apps ([Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) & [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile)).
+  - **Craft V1.0** *(Private)* — Initial architecture, core multi-vendor marketplace, role-based workflows (Customers, Suppliers, Delivery Personnel, Admins), and e-learning MVP.
+  - **Craft V1.1** *(Private)* — Production hardening with Docker, Daphne ASGI (HTTP/2), dynamic database localization via `django-modeltranslation`, Redis caching, Celery background workers, and automated CI/CD.
+  - **Craft V1.2** *(Private)* — Enterprise backend capabilities: audit trails, dispute resolution, priority support ticketing, FCM push notifications, supplier analytics dashboards, and GDPR data portability tools.
+  - **Craft V2.0 (Microservices)** *(Private)* — Distributed microservices transformation decomposing the monolith into 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 storage, full Prometheus/Grafana/Jaeger observability, and dedicated Flutter mobile apps (Craft Seller & Craft Buyer).
 - **Core System Capabilities:** Multi-variant cataloging, inventory reservations, dynamic shopping carts, Paymob/Stripe payment orchestration, courier dispatch tracking, workshop video streaming, follower feeds, and real-time WebSocket chat.
 - **Security & Data Governance:** Role-Based Access Control (RBAC), data minimization under Egyptian Law 151/2020, post-delivery address masking, and immutable audit logging.
 
@@ -82,7 +86,8 @@ An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics,
 
 ### ⚡ [**PILOT**](https://pilot.egykode.com)
 > **Classification:** `🏢 EgyKode Flagship Platform`  
-> **Domain:** *Cloud & DevOps Architecture, Cost Estimation & Infrastructure as Code*
+> **Live Website:** [pilot.egykode.com](https://pilot.egykode.com)  
+> **Repository Status:** `🔒 Private Repository`
 
 A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.
 
@@ -92,9 +97,10 @@ A Cloud & DevOps architecture assistant that analyzes applications, captures req
 
 ---
 
-### 🏥 [**Care**](https://github.com/EgyKode/Care)
+### 🏥 [**Care**](https://care.egykode.com)
 > **Classification:** `🏢 EgyKode Flagship Platform`  
-> **Domain:** *Healthcare Outpatient Operations, Clinic Queue Management & Patient Flow*
+> **Live Website:** [care.egykode.com](https://care.egykode.com)  
+> **Repository Status:** `🔒 Private Repository`
 
 A specialized healthcare outpatient operations and patient flow management platform designed to synchronize physician scheduling, clinic queues, reception check-ins, and proactive arrival notifications to eliminate waiting room congestion and provide hospital operational visibility.
 
@@ -104,9 +110,10 @@ A specialized healthcare outpatient operations and patient flow management platf
 
 ---
 
-### 💼 [**ProcMarts**](https://github.com/EgyKode/ProcMarts)
+### 💼 [**ProcMarts**](https://procmarts.egykode.com)
 > **Classification:** `🏢 EgyKode Flagship Platform`  
-> **Domain:** *Enterprise B2B Procurement, Tender Bidding & Automated 3-Way Matching*
+> **Live Website:** [procmarts.egykode.com](https://procmarts.egykode.com)  
+> **Repository Status:** `🔒 Private Repository`
 
 A comprehensive digital B2B procurement operating system engineered to digitize requests for quotation (RFQs), competitive tenders, verified supplier evaluations, purchase orders, and automated 3-way invoice matching.
 
@@ -116,9 +123,10 @@ A comprehensive digital B2B procurement operating system engineered to digitize 
 
 ---
 
-### 🎓 [**EgyKode Academy**](https://github.com/egykode/EgyKode-Academy)
+### 🎓 [**EgyKode Academy**](https://academy.egykode.com)
 > **Classification:** `🏢 EgyKode Open-Source Platform`  
-> **Domain:** *Cloud & DevOps Education, Hands-On Browser Labs & Workstations*
+> **Live Website:** [academy.egykode.com](https://academy.egykode.com)  
+> **Repository Status:** `🌐 Public Repository` — [github.com/egykode/EgyKode-Academy](https://github.com/egykode/EgyKode-Academy)
 
 The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and containerized local lab environments.
 
@@ -130,6 +138,7 @@ The open-source Cloud & DevOps learning platform. Designed to take learners from
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
 > **Classification:** `💻 Backend Software Engineering Project`  
+> **Repository Status:** `🌐 Public Repository` — [github.com/Waleeddarwesh/SwiftRide](https://github.com/Waleeddarwesh/SwiftRide)  
 > **Domain:** *Transit Ticketing, Real-Time Fleet Tracking & Event-Driven Architecture*
 
 High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.
@@ -145,7 +154,8 @@ High-performance transit ticketing ecosystem engineered using Django, WebSockets
 
 ### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
 > **Classification:** `☁️ Internship Training & Lab Portfolio`  
-> **Institution:** *iVolve Technologies Cloud DevOps Internship*
+> **Institution:** *iVolve Technologies Cloud DevOps Internship*  
+> **Repository Status:** `🌐 Public Repository` — [github.com/Waleeddarwesh/ivolve-cloud-devops-internship](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
 
 A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.
 
@@ -167,7 +177,8 @@ A comprehensive repository documenting my Cloud & DevOps internship journey at i
 
 ### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
 > **Classification:** `🏆 Internship Capstone Project`  
-> **Institution:** *iVolve Technologies Cloud DevOps Internship*
+> **Institution:** *iVolve Technologies Cloud DevOps Internship*  
+> **Repository Status:** `🌐 Public Repository` — [github.com/Waleeddarwesh/CloudDevOpsProject](https://github.com/Waleeddarwesh/CloudDevOpsProject)
 
 A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.
 
@@ -181,7 +192,8 @@ A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure depl
 
 ### 🛰️ [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
 > **Classification:** `🛰️ Enterprise Training Platform Project`  
-> **Institution:** *National Telecommunication Institute (NTI) Cloud DevOps Program*
+> **Institution:** *National Telecommunication Institute (NTI) Cloud DevOps Program*  
+> **Repository Status:** `🌐 Public Repository` — [github.com/Waleeddarwesh/StepByStep_Final_NTI_Project](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
 
 A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.
 
