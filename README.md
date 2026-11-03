@@ -38,15 +38,40 @@ My engineering work bridges distributed software engineering and cloud-native pl
 
 ---
 
-## 🏢 EgyKode Overview & Company Architecture
+## 🎓 Bachelor's Graduation Project — Craft (Grade: A+)
 
-EgyKode is built on practical engineering principles, decoupling complex business operations into scalable platforms, robust cloud foundations, and enterprise consulting services.
+### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: A+)*
+*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
+
+> 🔒 **Architectural Evolution across 4 Iterations:**
+> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** — Initial architecture, core multi-vendor marketplace, role-based workflows (Customers, Suppliers, Delivery Personnel, Admins), and e-learning MVP.
+> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** — Production hardening with Docker, Daphne ASGI (HTTP/2), dynamic database localization via `django-modeltranslation`, Redis caching, Celery background workers, and automated CI/CD.
+> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** — Enterprise backend capabilities: audit trails, dispute resolution, priority support ticketing, FCM push notifications, supplier analytics dashboards, and GDPR data portability tools.
+> - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** — Distributed microservices transformation decomposing the monolith into 10 domain services, Traefik edge routing, RabbitMQ AMQP messaging, PostgreSQL 15 with PgBouncer connection pooling, MinIO S3 storage, full Prometheus/Grafana/Jaeger observability, and dedicated Flutter mobile apps ([Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) & [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile)).
+
+#### 🏗️ **Core System Capabilities**
+- **Multi-Vendor Marketplace & Logistics:** Comprehensive e-commerce engine managing multi-variant cataloging, inventory reservations, dynamic shopping carts, Paymob/Stripe payment orchestration, advanced return policies, and courier dispatch tracking.
+- **E-Learning & Workshop Integration:** Digital academy module allowing master artisans to host workshops, stream video masterclasses, track student progress, and issue automated certificates.
+- **Social & Discovery Layer:** Content discovery feeds, follower graphs, and personalized product recommendations powered by an interaction-history algorithm (Views, Carts, Purchases).
+- **Real-Time Communication:** Persistent bi-directional WebSocket infrastructure built on Django Channels / FastAPI and Redis for instant maker-customer messaging and live notifications.
+- **CRM & Conflict Resolution:** Structured support ticketing system and multi-party dispute arbitration workflows mediating buyer and artisan claims.
+- **Automated Analytics & Reporting:** Celery and Celery Beat offloading heavy data aggregation to produce live sales metrics, return rates, and financial payout statements.
+
+#### 🛡️ **Enterprise Security & Cloud-Native Operations**
+- **Role-Based Access Control (RBAC):** Granular authorization isolating Customers, Artisans, Delivery Drivers, and System Administrators.
+- **Data Governance & Egyptian Law 151/2020:** Data minimization, post-delivery address masking, brute-force lockout protection, and immutable audit logging.
+- **Containerization & Deployment:** Fully containerized stack orchestrated via Docker Compose, tuned PostgreSQL connection pooling, and automated secret rotation.
+
+---
+
+## 🏢 Products & Platforms Engineered @ EgyKode
+
+EgyKode is an Egyptian technology company building practical enterprise software, cloud infrastructure, developer platforms, and digital products.
 
 ```text
 EgyKode
 └── IT / Technology Company
     ├── Products & Platforms
-    │   ├── Craft — Cloud-native multi-vendor commerce ecosystem
     │   ├── PILOT — Cloud & DevOps architecture & IaC platform
     │   ├── Care — Healthcare outpatient operations & patient flow management
     │   ├── ProcMarts — Enterprise B2B procurement & tender operating system
@@ -60,20 +85,6 @@ EgyKode
         ├── DevOps & Delivery Automation
         └── Cost Optimization & Infrastructure Review
 ```
-
----
-
-## 🌟 Products & Platforms Engineered @ EgyKode
-
-### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v2-microservices) | *(Graduation Project — Grade: A+)*
-*An enterprise-scale commerce ecosystem connecting customers, artisans, suppliers, payments, logistics, and localized learning experiences across decoupled domain services.*
-
-- **Distributed Microservices Backend:** 10 domain microservices (Auth, Catalog, Orders, Payments, Platform, ML, Reporting, Realtime, Procurement, Admin) orchestrated with Traefik API Gateway, RabbitMQ event bus, Redis, and PostgreSQL with PgBouncer connection pooling.
-- **Cross-Platform Mobile Apps:** [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile) and [Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) mobile clients engineered with Flutter 3.x, Riverpod 2.5, Clean Architecture, and Material 3 design tokens.
-- **Payment & Escrow Pipeline:** Seamless payment processing integrating Paymob (Cards, Mobile Wallets, Meeza) with escrow holding, automated supplier payout ledgers, and cash-on-delivery flows.
-- **Architectural Evolution:** Evolved from monolithic releases ([Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0), [Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1), [Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)) into a cloud-native microservices architecture ([Craft V2.0](https://github.com/Waleeddarwesh/craft-v2-microservices)).
-
----
 
 ### ⚡ [**PILOT**](https://pilot.egykode.com)
 *A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.*
@@ -111,7 +122,19 @@ EgyKode
 
 ---
 
-## 🚀 Featured Cloud & DevOps Projects
+## 💻 Backend Software Engineering Projects
+
+### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
+*High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.*
+
+- **Sub-Second Real-Time Synchronization:** Built a live train tracking and dispatch notification system using Django Channels (WebSockets) and Redis Pub/Sub for sub-second transit updates.
+- **Cryptographic QR Ticketing:** Developed an encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
+- **Robust Payment Processing:** Integrated Stripe checkout to handle complex financial workflows, including secure customer payments, automated refund processing, and multi-currency transactions.
+- **Scalable Architecture:** Offloaded intensive background jobs (email ticket dispatch, receipt generation) to Celery workers and containerized the entire stack with Docker Compose.
+
+---
+
+## ☁️ Cloud & DevOps Projects
 
 ### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
 *A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.*
@@ -139,16 +162,6 @@ EgyKode
 - **Ansible Configuration:** Automated initialization of Jenkins master/agent nodes, Docker container runtime, and CloudWatch log agents.
 - **EKS & Helm Deployment:** Multi-stage container builds deployed to Amazon EKS using custom Helm charts, Horizontal Pod Autoscalers (HPA), and AWS ALB Ingress Controller.
 - **Observability & Alerting:** Full Prometheus TSDB metrics collection, custom Grafana health dashboards, and Alertmanager notification integrations.
-
----
-
-### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
-*Engineered a high-performance transit ticketing ecosystem using Django, WebSockets, and event-driven architecture.*
-
-- **Sub-Second Real-Time Sync:** Live train tracking and dispatch notification system powered by Django Channels (WebSockets) and Redis Pub/Sub.
-- **Cryptographic QR Ticketing:** Encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
-- **Payment Processing:** Integrated Stripe checkout, automated refund workflows, and multi-currency transactions.
-- **Scalable Architecture:** Offloaded intensive background jobs to Celery workers and containerized the entire stack with Docker Compose.
 
 ---
 
@@ -218,7 +231,7 @@ EgyKode
 
 ## 💡 Engineering Principles
 
-Every system and platform engineered at EgyKode adheres to core architectural guidelines:
+Every system and platform engineered adheres to core architectural guidelines:
 
 - **Practical**: Solving genuine business and operational bottlenecks without artificial complexity.
 - **Reliable**: Designed with decoupled domain boundaries, redundancy, and zero single points of failure.
