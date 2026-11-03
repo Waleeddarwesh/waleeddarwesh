@@ -10,8 +10,8 @@
   <a href="https://egykode.com">
     <img src="https://img.shields.io/badge/EgyKode-0052CC?style=for-the-badge&logo=safari&logoColor=white" alt="EgyKode" />
   </a>
-  <a href="mailto:Waleeddarweshsaad1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:waleeddarwesh@egykode.com">
+    <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
   <a href="https://hub.docker.com/r/waleeddarwesh/">
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
@@ -62,10 +62,10 @@ EgyKode
 
 ---
 
-## 🌟 Featured Projects & Engineered Systems
+## 🚀 Flagship Systems & Core Engineering Projects
 
 ### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v1.0)
-> **Category:** `🎓 Bachelor's Graduation Project (Grade: A+)`  
+> **Classification:** `🎓 Bachelor's Graduation Project (Grade: A+)`  
 > **Domain:** *Artisanal Commerce, Multi-Vendor Marketplace, Logistics & E-Learning*
 
 An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.
@@ -81,7 +81,7 @@ An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics,
 ---
 
 ### ⚡ [**PILOT**](https://pilot.egykode.com)
-> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Classification:** `🏢 EgyKode Flagship Platform`  
 > **Domain:** *Cloud & DevOps Architecture, Cost Estimation & Infrastructure as Code*
 
 A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.
@@ -93,7 +93,7 @@ A Cloud & DevOps architecture assistant that analyzes applications, captures req
 ---
 
 ### 🏥 [**Care**](https://github.com/EgyKode/Care)
-> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Classification:** `🏢 EgyKode Flagship Platform`  
 > **Domain:** *Healthcare Outpatient Operations, Clinic Queue Management & Patient Flow*
 
 A specialized healthcare outpatient operations and patient flow management platform designed to synchronize physician scheduling, clinic queues, reception check-ins, and proactive arrival notifications to eliminate waiting room congestion and provide hospital operational visibility.
@@ -105,7 +105,7 @@ A specialized healthcare outpatient operations and patient flow management platf
 ---
 
 ### 💼 [**ProcMarts**](https://github.com/EgyKode/ProcMarts)
-> **Category:** `🏢 EgyKode Flagship Platform`  
+> **Classification:** `🏢 EgyKode Flagship Platform`  
 > **Domain:** *Enterprise B2B Procurement, Tender Bidding & Automated 3-Way Matching*
 
 A comprehensive digital B2B procurement operating system engineered to digitize requests for quotation (RFQs), competitive tenders, verified supplier evaluations, purchase orders, and automated 3-way invoice matching.
@@ -117,7 +117,7 @@ A comprehensive digital B2B procurement operating system engineered to digitize 
 ---
 
 ### 🎓 [**EgyKode Academy**](https://github.com/egykode/EgyKode-Academy)
-> **Category:** `🏢 EgyKode Open-Source Platform`  
+> **Classification:** `🏢 EgyKode Open-Source Platform`  
 > **Domain:** *Cloud & DevOps Education, Hands-On Browser Labs & Workstations*
 
 The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and containerized local lab environments.
@@ -129,7 +129,7 @@ The open-source Cloud & DevOps learning platform. Designed to take learners from
 ---
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
-> **Category:** `💻 Backend Software Engineering Project`  
+> **Classification:** `💻 Backend Software Engineering Project`  
 > **Domain:** *Transit Ticketing, Real-Time Fleet Tracking & Event-Driven Architecture*
 
 High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.
@@ -141,9 +141,33 @@ High-performance transit ticketing ecosystem engineered using Django, WebSockets
 
 ---
 
+## ☁️ Professional Training & Cloud DevOps Projects
+
+### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
+> **Classification:** `☁️ Internship Training & Lab Portfolio`  
+> **Institution:** *iVolve Technologies Cloud DevOps Internship*
+
+A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.
+
+#### 🧰 Technologies & Topics Covered During the Internship
+- **Scripting & Automation:** Bash Scripting, Linux System Administration, Cron Automation
+- **Version Control & Build:** Git & GitHub, Maven, Gradle
+- **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes Clusters
+- **Continuous Integration & Delivery:** Jenkins Multibranch Pipelines, Webhooks, DevSecOps
+- **Infrastructure as Code & Configuration:** Terraform, Ansible Playbooks & Roles, AWS Cloud
+- **Networking & Observability:** VPC Architecture, Subnets, Routing, Prometheus & Grafana Monitoring
+
+#### 🎯 Repository Goals
+- Document daily learning, technical labs, and production-grade project implementations.
+- Strengthen practical knowledge of modern Cloud and DevOps technologies.
+- Build production-oriented Cloud & DevOps skills through hands-on projects and real-world scenarios.
+- Track continuous technical growth and operational excellence throughout the internship.
+
+---
+
 ### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
-> **Category:** `☁️ Cloud & DevOps Capstone Project`  
-> **Domain:** *iVolve Technologies Internship Final Capstone*
+> **Classification:** `🏆 Internship Capstone Project`  
+> **Institution:** *iVolve Technologies Cloud DevOps Internship*
 
 A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.
 
@@ -155,20 +179,9 @@ A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure depl
 
 ---
 
-### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
-> **Category:** `☁️ Cloud & DevOps Internship Journey`  
-> **Domain:** *iVolve Technologies Professional Training & Real-World Labs*
-
-A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, IaC projects, and cloud-native deployments.
-
-- **Hands-on Labs:** Deep-dive implementations across Linux Administration, Bash Automation, Docker, Kubernetes, Ansible, Terraform, and AWS.
-- **Enterprise CI/CD:** Real-world Jenkins pipeline configurations, artifact management with Maven/Gradle, and Git branching workflows.
-
----
-
 ### 🛰️ [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
-> **Category:** `☁️ Cloud & DevOps Enterprise Platform`  
-> **Domain:** *National Telecommunication Institute (NTI) Final Platform Project*
+> **Classification:** `🛰️ Enterprise Training Platform Project`  
+> **Institution:** *National Telecommunication Institute (NTI) Cloud DevOps Program*
 
 A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.
 
@@ -266,7 +279,7 @@ Every system and platform engineered adheres to core architectural guidelines:
   🐙 <b>GitHub Organization:</b> <a href="https://github.com/EgyKode">github.com/EgyKode</a><br>
   💼 <b>Personal LinkedIn:</b> <a href="https://www.linkedin.com/in/waleeddarwesh1/">linkedin.com/in/waleeddarwesh1</a><br>
   🏢 <b>Company LinkedIn:</b> <a href="https://www.linkedin.com/company/egykode">linkedin.com/company/egykode</a><br>
-  ✉️ <b>Personal Email:</b> <a href="mailto:Waleeddarweshsaad1@gmail.com">Waleeddarweshsaad1@gmail.com</a><br>
+  ✉️ <b>Founder Email:</b> <a href="mailto:waleeddarwesh@egykode.com">waleeddarwesh@egykode.com</a><br>
   ✉️ <b>Business Inquiries:</b> <a href="mailto:contact@egykode.com">contact@egykode.com</a>
 </p>
 
