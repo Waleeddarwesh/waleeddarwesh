@@ -137,14 +137,14 @@ The open-source Cloud & DevOps learning platform. Designed to take learners from
 ---
 
 ### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
-> **Classification:** `💻 Backend Software Engineering Project`  
+> **Classification:** `💻 Early Backend Training & Learning Project`  
 > **Repository Status:** `🌐 Public Repository` — [github.com/Waleeddarwesh/SwiftRide](https://github.com/Waleeddarwesh/SwiftRide)  
-> **Domain:** *Transit Ticketing, Real-Time Fleet Tracking & Event-Driven Architecture*
+> **Context:** *Hands-On Training Project at the Beginning of Backend Learning Journey*
 
-High-performance transit ticketing ecosystem engineered using Django, WebSockets, and event-driven architecture.
+An early hands-on backend training project developed at the beginning of my software engineering learning journey to master core backend fundamentals, Django architectures, real-time WebSockets, and payment integrations.
 
-- **Sub-Second Real-Time Synchronization:** Live train tracking and dispatch notification system powered by Django Channels (WebSockets) and Redis Pub/Sub.
-- **Cryptographic QR Ticketing:** Encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
+- **Sub-Second Real-Time Synchronization:** Built a live train tracking and dispatch notification system using Django Channels (WebSockets) and Redis Pub/Sub for sub-second transit updates.
+- **Cryptographic QR Ticketing:** Developed an encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
 - **Robust Payment Processing:** Integrated Stripe checkout to handle complex financial workflows, including secure customer payments, automated refund processing, and multi-currency transactions.
 - **Scalable Architecture:** Offloaded intensive background jobs (email ticket dispatch, receipt generation) to Celery workers and containerized the entire stack with Docker Compose.
 
