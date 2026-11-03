@@ -1,38 +1,206 @@
-# 👋 Hi, I'm Waleed Darwesh Saad
-### 🛠️ Cloud DevOps Engineer • Backend Software Engineer  
-**Computer Science Graduate** | **Former Cloud DevOps Intern @ iVolve Technologies**
+# 👋 Hi, I'm Waleed Darwesh 
+
+### 🚀 Founder @ EgyKode • Cloud DevOps Engineer • Backend Software Engineer  
+**B.Sc. in Computer Science (GPA: 3.63/4.0)** | **NTI Cloud DevOps Graduate** | **Former Cloud DevOps Intern @ iVolve Technologies**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/waleeddarwesh1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="https://egykode.com">
+    <img src="https://img.shields.io/badge/EgyKode-0052CC?style=for-the-badge&logo=safari&logoColor=white" alt="EgyKode" />
+  </a>
   <a href="mailto:Waleeddarweshsaad1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://hub.docker.com/r/waleeddarwesh/">
-  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
   </a>
-
-   <a href="https://www.credly.com/users/waleed-darwesh1/">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  <a href="https://www.credly.com/users/waleed-darwesh1/">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
-  
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Cloud DevOps Engineer and Backend Software Engineer with hands-on experience designing and deploying scalable backend applications and cloud-native infrastructure. Skilled in developing RESTful APIs with Python and Django, automating infrastructure using Terraform and Ansible, building containerized workloads with Docker and Kubernetes, and implementing secure CI/CD pipelines with Jenkins.
+I am a **Cloud DevOps Engineer**, **Backend Software Engineer**, and the **Founder of EgyKode**—an Egyptian technology and software engineering company delivering practical enterprise software, cloud infrastructure, developer platforms, and digital products.
 
-Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologies**, I have gained practical experience in AWS, Linux administration, Infrastructure as Code (IaC), container orchestration, automation, and observability by delivering production-oriented projects that follow modern DevOps and cloud engineering practices.
+My engineering work bridges distributed software engineering and cloud-native platform infrastructure. I design and build resilient microservices architectures with Python, Django, and FastAPI, provision declarative multi-environment cloud infrastructure using Terraform and Ansible, orchestrate production container workloads on Kubernetes and OpenShift, and enforce automated DevSecOps pipelines with Jenkins and GitHub Actions.
 
-- 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0**)
-- 🎓 **Professional Training:** NTI Cloud DevOps Training Program (AWS, Red Hat Linux, Kubernetes, OpenShift, Ansible, Terraform & CI/CD)
-- 🛡️ **Digital Badges & Certifications:** AWS Academy | Red Hat Academy | Cisco Networking Academy
-- 🚀 **Current Focus:** AWS Cloud, Linux System Administration, Docker, Kubernetes/OpenShift, Jenkins CI/CD, Terraform (Infrastructure as Code), Ansible Automation, Networking, Monitoring & Observability, and Cloud Infrastructure.
+- 🏢 **Founder & Technical Lead:** [EgyKode](https://egykode.com) — Engineering enterprise platforms, SaaS products, and Cloud/DevOps solutions.
+- 🎓 **Education:** B.Sc. in Computer and Information Technology (**GPA: 3.63/4.0** with Honors).
+- 🎓 **Professional Training:** National Telecommunication Institute (NTI) Cloud DevOps Program (AWS, Red Hat Linux, Kubernetes, OpenShift, Ansible, Terraform & CI/CD).
+- 💼 **Industry Experience:** Former Cloud DevOps Intern @ **iVolve Technologies**.
+- 🛡️ **Digital Badges & Certifications:** AWS Academy Graduate | Red Hat Academy | Cisco Networking Academy.
+- 🚀 **Current Focus:** Distributed Microservices, Cloud Architecture (AWS), Kubernetes & OpenShift Container Orchestration, Infrastructure as Code (Terraform), GitOps, CI/CD Security Automation, and Enterprise Observability.
+
+---
+
+## 🏢 EgyKode Overview & Company Architecture
+
+EgyKode is built on practical engineering principles, decoupling complex business operations into scalable platforms, robust cloud foundations, and enterprise consulting services.
+
+```text
+EgyKode
+└── IT / Technology Company
+    ├── Products & Platforms
+    │   ├── Craft — Cloud-native multi-vendor commerce ecosystem
+    │   ├── PILOT — Cloud & DevOps architecture & IaC platform
+    │   ├── Care — Healthcare outpatient operations & patient flow management
+    │   ├── ProcMarts — Enterprise B2B procurement & tender operating system
+    │   └── EgyKode Academy — Open-source Cloud & DevOps learning platform
+    ├── Services
+    │   ├── Software Engineering (Distributed Systems, APIs, Microservices)
+    │   └── Cloud & DevOps (Cloud Foundations, Kubernetes, CI/CD, Observability)
+    └── Consulting
+        ├── Architecture & Legacy Modernization
+        ├── Cloud Strategy & Migration
+        ├── DevOps & Delivery Automation
+        └── Cost Optimization & Infrastructure Review
+```
+
+---
+
+## 🌟 Products & Platforms Engineered @ EgyKode
+
+### 🧶 [**Craft Platform**](https://github.com/Waleeddarwesh/craft-v2-microservices) | *(Graduation Project — Grade: A+)*
+*An enterprise-scale commerce ecosystem connecting customers, artisans, suppliers, payments, logistics, and localized learning experiences across decoupled domain services.*
+
+- **Distributed Microservices Backend:** 10 domain microservices (Auth, Catalog, Orders, Payments, Platform, ML, Reporting, Realtime, Procurement, Admin) orchestrated with Traefik API Gateway, RabbitMQ event bus, Redis, and PostgreSQL with PgBouncer connection pooling.
+- **Cross-Platform Mobile Apps:** [Craft Buyer](https://github.com/Waleeddarwesh/craft_mobile) and [Craft Seller](https://github.com/Waleeddarwesh/craft_supplier) mobile clients engineered with Flutter 3.x, Riverpod 2.5, Clean Architecture, and Material 3 design tokens.
+- **Payment & Escrow Pipeline:** Seamless payment processing integrating Paymob (Cards, Mobile Wallets, Meeza) with escrow holding, automated supplier payout ledgers, and cash-on-delivery flows.
+- **Architectural Evolution:** Evolved from monolithic releases ([Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0), [Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1), [Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)) into a cloud-native microservices architecture ([Craft V2.0](https://github.com/Waleeddarwesh/craft-v2-microservices)).
+
+---
+
+### ⚡ [**PILOT**](https://pilot.egykode.com)
+*A Cloud & DevOps architecture assistant that analyzes applications, captures requirements, compares infrastructure topologies, estimates cloud costs, and generates reviewable delivery plans and IaC modules.*
+
+- **Topology & Cost Analysis:** Automates cloud architectural comparisons across AWS, GCP, and Azure with detailed cost projections.
+- **Automated Delivery Plans:** Translates complex system requirements into reviewable infrastructure roadmaps and security-hardened deployment strategies.
+- **IaC Synthesis:** Generates verified Terraform modules and Kubernetes manifests following enterprise security benchmarks.
+
+---
+
+### 🏥 [**Care**](https://github.com/EgyKode/Care)
+*A specialized healthcare outpatient operations and patient flow management platform designed to synchronize physician scheduling, clinic queues, reception check-ins, and proactive arrival notifications to eliminate waiting room congestion and provide hospital operational visibility.*
+
+- **End-to-End Clinic Operations:** Role-tailored workspaces for Physicians, Clinic Coordinators, Receptionists, and Hospital Administrators.
+- **Smart Queue & Scheduling:** Multi-session scheduling, buffer slots, walk-in ticket triage, dynamic status transitions, and proactive patient notifications.
+- **Enterprise Data Governance:** Strictly compliant with healthcare data minimization, logical tenant isolation, and Egyptian Personal Data Protection Law 151/2020.
+
+---
+
+### 💼 [**ProcMarts**](https://github.com/EgyKode/ProcMarts)
+*A comprehensive digital B2B procurement operating system engineered to digitize requests for quotation (RFQs), competitive tenders, verified supplier evaluations, purchase orders, and automated 3-way invoice matching.*
+
+- **B2B Procurement Lifecycle:** Complete digitization of requisitions, competitive bidding rounds, technical scorecards, and multi-currency awards.
+- **Microservices Architecture:** Decoupled procurement domains featuring independent service boundaries, Traefik edge routing, asynchronous AMQP messaging, and dedicated Flutter mobile apps for buyers and suppliers.
+- **Financial Controls & Verification:** Automated 3-way matching between Purchase Orders, Goods Receipt Notes (GRN), and Supplier Invoices.
+
+---
+
+### 🎓 [**EgyKode Academy**](https://github.com/egykode/EgyKode-Academy)
+*The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and containerized local lab environments.*
+
+- **Interactive Cloud Scenarios:** 45+ browser-based terminal scenarios using Killercoda for zero-setup, real-world DevOps labs.
+- **Local Lab Environments:** Standalone Docker-based DevOps workstations providing Git, Ansible, Terraform, Kubectl, Helm, and managed systemd nodes.
+- **Automated Content Engineering:** Built on Next.js 15 App Router and MDX with dynamic lab verification through automated CI testing pipelines.
+
+---
+
+## 🚀 Featured Cloud & DevOps Projects
+
+### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
+*A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.*
+
+- **Infrastructure as Code (IaC):** Modular Terraform configurations provisioning VPC networks, compute instances, security groups, and cloud storage on AWS.
+- **Configuration Management:** Ansible playbooks for automated host provisioning, package management, and service hardening.
+- **Container Orchestration & GitOps:** Microservices deployed on Kubernetes using Helm charts and managed through an automated ArgoCD GitOps continuous delivery workflow.
+- **DevSecOps Pipeline:** Automated Jenkins multibranch pipeline integrating SonarQube static code quality gates and Trivy container vulnerability scanning.
+- **Observability:** Centralized monitoring stack using Prometheus and Grafana for infrastructure and application metrics.
+
+---
+
+### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
+*A comprehensive repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, IaC projects, and cloud-native deployments.*
+
+- **Hands-on Labs:** Deep-dive implementations across Linux Administration, Bash Automation, Docker, Kubernetes, Ansible, Terraform, and AWS.
+- **Enterprise CI/CD:** Real-world Jenkins pipeline configurations, artifact management with Maven/Gradle, and Git branching workflows.
+
+---
+
+### 🛰️ [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
+*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
+
+- **Enterprise AWS Infrastructure:** Terraform provisioning public/private VPC subnets, AWS EKS (v1.34), RDS PostgreSQL 16, Amazon ECR, IAM roles for service accounts (IRSA), S3, and AWS Secrets Manager.
+- **Ansible Configuration:** Automated initialization of Jenkins master/agent nodes, Docker container runtime, and CloudWatch log agents.
+- **EKS & Helm Deployment:** Multi-stage container builds deployed to Amazon EKS using custom Helm charts, Horizontal Pod Autoscalers (HPA), and AWS ALB Ingress Controller.
+- **Observability & Alerting:** Full Prometheus TSDB metrics collection, custom Grafana health dashboards, and Alertmanager notification integrations.
+
+---
+
+### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
+*Engineered a high-performance transit ticketing ecosystem using Django, WebSockets, and event-driven architecture.*
+
+- **Sub-Second Real-Time Sync:** Live train tracking and dispatch notification system powered by Django Channels (WebSockets) and Redis Pub/Sub.
+- **Cryptographic QR Ticketing:** Encrypted QR-based validation system with concurrency-safe seat reservation transactions and automated PDF ticket issuance.
+- **Payment Processing:** Integrated Stripe checkout, automated refund workflows, and multi-currency transactions.
+- **Scalable Architecture:** Offloaded intensive background jobs to Celery workers and containerized the entire stack with Docker Compose.
+
+---
+
+## 🛠️ Comprehensive Tech Stack
+
+### **Backend & Distributed Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Paymob-6A3FF5?style=for-the-badge&logoColor=white" alt="Paymob" />
+  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+### **Cloud, DevOps & Containers**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="OpenShift" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+### **Security, Quality & Observability**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
+
 ---
 
 ## 🏅 Certifications & Digital Badges
@@ -47,144 +215,38 @@ Through the NTI Cloud & DevOps Program and my internship at **iVolve Technologie
 - **Red Hat Academy — Red Hat Enterprise Linux Automation with Ansible (RH294)**
 
 ---
-## 🛠️ Tech Stack
 
-### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paymob-6A3FF5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bosta-FF6B00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</p>
+## 💡 Engineering Principles
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" />
+Every system and platform engineered at EgyKode adheres to core architectural guidelines:
 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-</p>
+- **Practical**: Solving genuine business and operational bottlenecks without artificial complexity.
+- **Reliable**: Designed with decoupled domain boundaries, redundancy, and zero single points of failure.
+- **Secure**: Implementing logical tenant isolation, data minimization, and least-privilege RBAC.
+- **Observable**: Instrumented with actionable telemetry, structured JSON logs, and real-time status metrics.
+- **Automated**: Repeatable through automated CI/CD pipelines and declarative Infrastructure as Code.
+- **Maintainable**: Built with clean interfaces, type safety, modular structures, and comprehensive technical documentation.
+- **Reviewable before deployment**: Everything verified through automated tests, linting, and security gates.
 
 ---
-## 🌟 Featured Projects
-### 🧶  [**Craft**](https://github.com/Waleeddarwesh/craft-v1.0) | *(Bachelor's Graduation Project — Grade: A+)*
-*An enterprise-scale, multi-vendor ecosystem orchestrating E-commerce, Logistics, E-Learning, and Real-time Social Networking into a single, high-performance architecture.*
 
-> 🔒 **Note:** Some source code repositories or versions may be **private** to protect project structure, business logic, and sensitive implementation details.
-> The architecture spans across 3 major iterations:
-> - **[Craft V1.0](https://github.com/Waleeddarwesh/craft-v1.0)** - Initial architecture, core marketplace, supplier/customer/delivery roles, and e-learning MVP.
-> - **[Craft V1.1](https://github.com/Waleeddarwesh/craft-v1.1)** - Production-ready improvements including Docker, Daphne ASGI, Arabic localization, Redis, Celery, and CI/CD.
-> - **[Craft V1.2](https://github.com/Waleeddarwesh/craft-v1.2)** - Advanced backend features including audit logs, dispute resolution, support tickets, FCM push notifications, supplier analytics, and privacy-ready enhancements.
-> - **[Craft V2.0 (Microservices)](https://github.com/Waleeddarwesh/craft-v2-microservices)** - Next-generation architectural evolution transitioning the monolithic backend into a distributed microservices ecosystem for isolated deployments, high availability, and infinite scalability.
+## 🌐 Connect & Inquiries
 
-#### 🏗️ **Core System Capabilities**
-- **Multi-Vendor Marketplace & Logistics:** Engineered a comprehensive e-commerce engine handling product variants, dynamic carts, Stripe payment orchestration, advanced return policies, and a dedicated delivery routing module for drivers.
-- **E-Learning Integration:** Built a fully-featured digital academy allowing suppliers to upload video courses, track student enrollment progress, and issue automated certificates.
-- **Social & Engagement Engine:** Developed a real-time social layer where users can follow suppliers, browse dynamic content feeds, and receive personalized product recommendations driven by an interaction-history algorithm (Views/Carts/Purchases).
-- **Real-Time Communication:** Designed persistent, bi-directional WebSocket infrastructure using **Django Channels** and **Redis** for secure instant messaging and live push notifications (via Firebase Cloud Messaging).
-- **CRM & Conflict Resolution:** Implemented a priority-based Support Ticket system and a multi-party Dispute Resolution workflow to mediate conflicts between buyers and suppliers safely.
-- **Automated Analytics & Reporting:** Leveraged **Celery** and **Celery Beat** to offload heavy background processing, generating real-time supplier dashboards (total sales, return rates, top products) without blocking the main event loop.
-
-#### 🛡️ **Enterprise Security & DevOps Operations**
-- **Granular Access Control:** Engineered a complex Role-Based Access Control (RBAC) matrix defining strict permissions across four distinct interfaces: Customers, Suppliers, Delivery Personnel, and System Admins.
-- **Compliance & Hardening:** Implemented strict GDPR data portability tools (JSON data export/soft delete), brute-force account lockout protection, Django `AUTH_PASSWORD_VALIDATORS`, and comprehensive Audit Logging for all admin actions.
-- **Cloud-Native Infrastructure:** Fully containerized the stack using **Docker** & **Docker Compose**. Deployed on Railway utilizing **Daphne ASGI** with native HTTP/2 support, persistent PostgreSQL connection pooling, and dynamic, on-the-fly Arabic database translation using `django-modeltranslation`.
-  
-### 🌐 [**EgyKode**](https://github.com/egykode/EgyKode-Academy)
-*The open-source Cloud & DevOps learning platform. Designed to take learners from complete beginners to deployable engineers through structured roadmaps, interactive Killercoda scenarios, and fully containerized local lab environments.*
-
-#### 🏗️ **Core Platform Features**
-- **Interactive Cloud Scenarios:** Built 45+ browser-based terminal scenarios using Killercoda for zero-setup, free DevOps labs.
-- **Local Lab Environments:** Developed standalone Docker-based DevOps workstations providing Git, Ansible, Terraform, Kubectl, Helm, and managed systemd nodes.
-- **Automated Content Engineering:** Created a Next.js 15 (App Router) and MDX-based platform where topics, roadmaps, and 100+ labs are dynamically generated and verified via strict CI pipelines.
-
-### 🏆 [**iVolve Cloud DevOps Capstone Project**](https://github.com/Waleeddarwesh/CloudDevOpsProject)
-*A comprehensive, end-to-end Cloud-Native DevOps pipeline and infrastructure deployment integrating all technologies mastered during the iVolve Technologies internship.*
-
-#### 🏗️ **Architecture & Implementation**
-- **Infrastructure Automation:** Provisioned complete AWS environments using Terraform and configured instances using Ansible roles.
-- **GitOps & Orchestration:** Deployed scalable microservices on Kubernetes using Helm charts, managed via an ArgoCD GitOps workflow.
-- **CI/CD & Observability:** Implemented automated Jenkins pipelines with DevSecOps practices and deployed a full Prometheus/Grafana monitoring stack.
-  
-### ☁️ [**iVolve Cloud DevOps Journey**](https://github.com/Waleeddarwesh/ivolve-cloud-devops-internship)
-
-*A repository documenting my Cloud & DevOps internship journey at iVolve Technologies, including hands-on labs, real-world assignments, automation scripts, Infrastructure as Code (IaC) projects, CI/CD pipelines, and cloud-native deployments.*
-
-#### 🧰 Technologies & Topics Covered During the Internship
-
-- Bash Scripting
-- Git & GitHub
-- Maven & Gradle
-- Docker & Docker Compose
-- Jenkins
-- Kubernetes
-- Terraform
-- AWS
-- Ansible
-- Networking
-- CI/CD
-- Monitoring
-
-#### 🎯 Repository Goals
-
-- Document daily learning, technical labs, and project implementations.
-- Strengthen practical knowledge of modern Cloud and DevOps technologies.
-- Build production-oriented Cloud & DevOps skills through hands-on projects and real-world scenarios.
-- Track my continuous technical growth throughout the internship.
-  
-### 🚀 [**NTI Cloud DevOps Platform**](https://github.com/Waleeddarwesh/StepByStep_Final_NTI_Project)
-*A production-grade Cloud DevOps platform built on AWS, implementing Infrastructure as Code (IaC), automated configuration management, Kubernetes container orchestration, security-gated CI/CD pipelines, and full-stack observability across 19 modular labs.*
-
-#### 🏗️ **Cloud Infrastructure & Platform Engineering**
-- **Infrastructure as Code (IaC):** Designed modular Terraform configurations provisioning AWS infrastructure including public/private VPCs, EKS cluster (v1.34), RDS PostgreSQL 16, ECR, IAM, S3, AWS Backup, and dynamic secrets via AWS Secrets Manager.
-- **Configuration Management:** Engineered Ansible automation roles for complete Jenkins host initialization, Docker engine installation, system dependencies, and Amazon CloudWatch Agent configuration.
-- **Container Orchestration & Helm:** Packaged Django/Nginx workloads into multi-stage Docker images, deploying to EKS via custom Helm charts, Horizontal Pod Autoscaler (HPA), and AWS Load Balancer Controller (ALB Ingress) using IRSA for credential-less authentication.
-
-#### 🛡️ **CI/CD Security Gates & Observability**
-- **Automated CI/CD Pipelines:** Implemented Jenkins multibranch pipelines integrating static code analysis (**SonarQube**) and container vulnerability scanning (**Trivy**) with strict pass/fail quality gates.
-- **Full-Stack Observability:** Deployed Prometheus metric collection, custom Grafana dashboards for application/cluster health, Alertmanager notification rules, and centralized CloudWatch logging.
-
-
-### 🚄 [**SwiftRide**](https://github.com/Waleeddarwesh/SwiftRide)
-
-*Engineered a high-performance transit ticketing ecosystem using Django and event-driven architecture.*
-
-* **Real-time Synchronization:** Built a live train tracking and notification system using Django Channels (WebSockets) and Redis for sub-second updates.
-* **Secure Ticketing:** Developed an encrypted QR-based validation system with automated concurrency-safe seat reservation and ticket generation.
-* **Robust Payments:** Integrated Stripe to handle complex financial workflows, including secure checkouts, refunds, and multi-currency transactions.
-* **Scalable Infrastructure:** Implemented Celery for background task processing and containerized the entire stack with Docker for production deployment.
-
+<p align="left">
+  <b>Waleed Darwesh</b> — Founder & Software Architect @ EgyKode<br>
+  📍 Damietta Governorate, Egypt<br>
+  🌐 <b>Corporate Website:</b> <a href="https://egykode.com">egykode.com</a><br>
+  🐙 <b>GitHub Organization:</b> <a href="https://github.com/EgyKode">github.com/EgyKode</a><br>
+  💼 <b>Personal LinkedIn:</b> <a href="https://www.linkedin.com/in/waleeddarwesh1/">linkedin.com/in/waleeddarwesh1</a><br>
+  🏢 <b>Company LinkedIn:</b> <a href="https://www.linkedin.com/company/egykode">linkedin.com/company/egykode</a><br>
+  ✉️ <b>Personal Email:</b> <a href="mailto:Waleeddarweshsaad1@gmail.com">Waleeddarweshsaad1@gmail.com</a><br>
+  ✉️ <b>Business Inquiries:</b> <a href="mailto:contact@egykode.com">contact@egykode.com</a>
+</p>
 
 ---
 
 <p align="center">
-  <b>Arabic (Native) | English (Professional)</b><br>
-  <i>"Building scalable backend systems and automating modern cloud infrastructure."</i>
+  <b>English (Professional) | Arabic (Native)</b><br>
+  <i>"Building scalable distributed software and automating cloud-native infrastructure."</i><br>
+  <sub>© 2026 Waleed Darwesh. All rights reserved.</sub>
 </p>
