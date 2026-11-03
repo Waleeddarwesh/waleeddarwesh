@@ -280,7 +280,6 @@ Every system and platform engineered adheres to core architectural guidelines:
 
 <p align="left">
   <b>Waleed Darwesh</b> — Founder & Software Engineer @ EgyKode<br>
-  📍 Damietta Governorate, Egypt<br>
   🌐 <b>Corporate Website:</b> <a href="https://egykode.com">egykode.com</a><br>
   🐙 <b>GitHub Organization:</b> <a href="https://github.com/EgyKode">github.com/EgyKode</a><br>
   💼 <b>Personal LinkedIn:</b> <a href="https://www.linkedin.com/in/waleeddarwesh1/">linkedin.com/in/waleeddarwesh1</a><br>
